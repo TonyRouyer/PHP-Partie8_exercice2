@@ -15,5 +15,6 @@ $_SESSION['age'] = 24;
 </head>
 <body>
     <a href="target.php">Clique ici !</a>
+    <p><a href="../index.php">Retour au menu</a></p>
 </body>
 </html>

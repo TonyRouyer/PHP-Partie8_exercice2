@@ -8,5 +8,6 @@
 </head>
 <body>
     <p><?= 'Je m\'appelle ' . $_SESSION['firstname'] . ' ' . $_SESSION['lastname'] . ', et j\'ai ' . $_SESSION['age'] . 'ans' ?></p>
+    <p><a href="../index.php">Retour au menu</a></p>
 </body>
 </html>
